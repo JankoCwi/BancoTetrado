@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bancotetrado"
+version = "0.1.0"
+description = "Banco and Ferre-D'Amare style SVG diagrams for ElTetrado G-quadruplex JSON files"
+requires-python = ">=3.8"
+dependencies = [
+    "svgwrite>=1.4.3",
+]
+
+[project.scripts]
+bancotetrado = "bancotetrado.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

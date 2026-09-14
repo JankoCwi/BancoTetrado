@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="216.0" version="1.1" width="390.0">
+  <defs/>
+  <rect fill="white" height="216.0" width="390.0" x="0" y="0"/>
+  <line stroke="black" stroke-width="2.3" x1="72.0" x2="72.0" y1="88.0" y2="128.0"/>
+  <line stroke="black" stroke-width="2.3" x1="84.0230436008084" x2="141.9769563991916" y1="133.44318122855847" y2="82.55681877144153"/>
+  <line stroke="black" stroke-width="2.3" x1="154.0" x2="154.0" y1="88.0" y2="128.0"/>
+  <circle cx="154.0" cy="108.0" fill="white" r="10.0" stroke="black" stroke-width="2.3"/>
+  <text fill="black" font-family="TimesNewRoman" font-size="13.0" font-weight="bold" style="text-anchor:middle;dominant-baseline:central;alignment-baseline:middle" x="154.0" y="108.0">2</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="22.0" font-weight="bold" style="text-anchor:middle;dominant-baseline:central;alignment-baseline:middle" x="137.2" y="108.0">&lt;</text>
+  <line stroke="black" stroke-width="2.3" x1="166.0230436008084" x2="223.9769563991916" y1="133.44318122855847" y2="82.55681877144153"/>
+  <circle cx="195.0" cy="108.0" fill="white" r="10.0" stroke="black" stroke-width="2.3"/>
+  <text fill="black" font-family="TimesNewRoman" font-size="13.0" font-weight="bold" style="text-anchor:middle;dominant-baseline:central;alignment-baseline:middle" x="195.0" y="108.0">2</text>
+  <line stroke="black" stroke-width="2.3" x1="236.0" x2="236.0" y1="88.0" y2="128.0"/>
+  <line stroke="black" stroke-width="2.3" x1="248.0230436008084" x2="305.9769563991916" y1="133.44318122855847" y2="82.55681877144153"/>
+  <line stroke="black" stroke-width="2.3" x1="318.0" x2="318.0" y1="88.0" y2="128.0"/>
+  <circle cx="318.0" cy="108.0" fill="white" r="10.0" stroke="black" stroke-width="2.3"/>
+  <text fill="black" font-family="TimesNewRoman" font-size="13.0" font-weight="bold" style="text-anchor:middle;dominant-baseline:central;alignment-baseline:middle" x="318.0" y="108.0">4</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="22.0" font-weight="bold" style="text-anchor:middle;dominant-baseline:central;alignment-baseline:middle" x="301.2" y="108.0">&lt;</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="normal" font-weight="bold" style="text-anchor:middle;dominant-baseline:middle" transform="translate(72.0, 72.0)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="82.2" y="83.9">17</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="italic" font-weight="normal" style="text-anchor:middle;dominant-baseline:middle" transform="translate(154.0, 72.0) rotate(180)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="164.2" y="83.9">19</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="normal" font-weight="bold" style="text-anchor:middle;dominant-baseline:middle" transform="translate(236.0, 72.0)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="246.2" y="83.9">25</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="italic" font-weight="normal" style="text-anchor:middle;dominant-baseline:middle" transform="translate(318.0, 72.0)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="328.2" y="83.9">27</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="normal" font-weight="bold" style="text-anchor:middle;dominant-baseline:middle" transform="translate(72.0, 144.0)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="82.2" y="155.9">18</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="italic" font-weight="normal" style="text-anchor:middle;dominant-baseline:middle" transform="translate(154.0, 144.0) rotate(180)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="164.2" y="155.9">22</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="normal" font-weight="bold" style="text-anchor:middle;dominant-baseline:middle" transform="translate(236.0, 144.0)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="246.2" y="155.9">26</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="34.0" font-style="italic" font-weight="normal" style="text-anchor:middle;dominant-baseline:middle" transform="translate(318.0, 144.0) rotate(180)">G</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="9.0" style="text-anchor:start;dominant-baseline:central;alignment-baseline:middle" x="328.2" y="155.9">32</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="18.700000000000003" font-weight="bold" style="text-anchor:middle;dominant-baseline:central;alignment-baseline:middle" x="72.0" y="40.0">5'</text>
+  <text fill="black" font-family="TimesNewRoman" font-size="18.700000000000003" font-weight="bold" style="text-anchor:middle;dominant-baseline:central;alignment-baseline:middle" x="318.0" y="176.0">3'</text>
+</svg>
